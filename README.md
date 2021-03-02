@@ -6,6 +6,7 @@ Node.js video streaming practice | using Express.js framework
 ---
 - $ `npm install`
 - $ `npm start`
+- check it on **http://localhost:8000**
 
 ### Bonus Challenge
 You can decide how much data to actually give back to the browser instead of streaming the whole video like Chrome asks.
